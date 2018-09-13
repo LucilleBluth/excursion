@@ -11,7 +11,6 @@ h1 {
   font-family: verdana;
   font-weight: normal;
   font-size: 50px;
-  align-self: center;
 }
 
 h2 {
@@ -26,5 +25,10 @@ p.ComingSoon{
 
 p {
   font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
   color: gray;
 }
